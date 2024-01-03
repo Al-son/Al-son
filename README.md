@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://fb.com/filsalouna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="filsalouna" height="30" width="40" /></a>
 <a href="https://instagram.com/fils_alouna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filsalouna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@filsalouna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fils alouna" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/@filsalouna](https://www.youtube.com/channel/UCrPjvRcNH5aXMU_j7VQn1lQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fils alouna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
