@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alson99&label=Profile%20views&color=0e75b6&style=flat" alt="alson99" /> </p>
 
 - 🌱 I’m currently learning **AI Technologies**
--  🔭 I'm currently working on **EMangegement on the Backend Side**
+-  🔭 I'm currently working on **EMangegement and MarketPlace on the Backend Side**
 - 💬 Ask me about **Java, Kotlin, Python**
 - 📫 How to reach me **filsalouna@gmail.com**
 
