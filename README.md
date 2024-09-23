@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 ! I'm Fils Alouna</h1>
-<h3 align="center">A passionate in Computer Science</h3>
+<h2 align="center">A passionate in Computer Science</h2>
 <img align= "right" alt ="Coding" width="400" height="300"  src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952zz7rpjkl60ku7upvdm8gfvzz07zqv5ifv6qb0lbu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alson99&label=Profile%20views&color=0e75b6&style=flat" alt="alson99" /> </p>
 
 - 🌱 I’m currently learning **AI Technologies**
--  🔭 I'm currently working on **EMangegement and MarketPlace on the Backend Side**
+-  🔭 I'm currently working on **Backend and AI projects**
 - 💬 Ask me about **Java, Kotlin, Python**
 - 📫 How to reach me **filsalouna@gmail.com**
 
